@@ -1,0 +1,1 @@
+export IPDL_FF_LOCATION="/Users/jakesutton/workspace/cse227/mozilla-unified"
