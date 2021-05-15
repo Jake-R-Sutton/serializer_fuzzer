@@ -1,0 +1,9 @@
+async protocol PPlugin
+{
+child:
+  async Init(nsCString pluginPath);
+  async Shutdown();
+  
+parent:
+  async Ready();
+};
